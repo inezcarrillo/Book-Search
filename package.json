@@ -17,6 +17,7 @@
     "concurrently": "^8.2.0"
   },
   "dependencies": {
+    "apollo": "^2.34.0",
     "mongodb": "^6.6.0"
   }
 }
